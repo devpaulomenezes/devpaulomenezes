@@ -14,7 +14,7 @@ Sou estudante do 4º período de **Análise e Desenvolvimento de Sistemas no IFP
 - **Ferramentas:** Git, GitHub, Maven
 
 ## 📫 Como me encontrar
-- **LinkedIn:** [https://contate.me/5583991404337]
+- **WhatsApp:** [https://contate.me/5583991404337]
 - **E-mail:** [devpaulomenezes@gmail.com]
 
 ---
