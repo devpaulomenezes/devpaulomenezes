@@ -1,4 +1,4 @@
-# Olá! Eu sou o [Seu Nome] 👋
+# Olá! Eu sou o Paulo Menezes 👋
 
 Sou estudante do 4º período de **Análise e Desenvolvimento de Sistemas no IFPB**, apaixonado por resolver problemas reais através do código. Atualmente, estou focado em construir aplicações eficientes e estruturadas, buscando minha primeira oportunidade como estagiário ou desenvolvedor Júnior.
 
